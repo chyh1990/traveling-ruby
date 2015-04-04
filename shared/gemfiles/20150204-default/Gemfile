@@ -1,5 +1,5 @@
-#source 'http://production.cf.rubygems.org/'
-source 'https://rubygems.org'
+#source 'http://production.cf.ruby.taobao.org/'
+source 'https://ruby.taobao.org'
 
 gem 'nokogiri'
 gem 'sqlite3'
